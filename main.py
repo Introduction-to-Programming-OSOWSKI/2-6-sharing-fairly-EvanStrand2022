@@ -1,5 +1,5 @@
 #define function
-def shareFair():
+def shareFair(x, y):
     if x % y == 0:
         return True
     else:
